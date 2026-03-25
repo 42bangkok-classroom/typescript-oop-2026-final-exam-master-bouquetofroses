@@ -23,5 +23,5 @@ export const answers = {
   "c17": "A",
   "c18": "C",
   "c19": "B",
-  "c20": "D",
+  "c20": "D", 
 }
